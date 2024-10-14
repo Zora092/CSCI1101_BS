@@ -1,1 +1,99 @@
-Homework assignment 
+<!DOCTYPE htm1>
+<html lange="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewpoint" contents="width=device-width, initial-scale=1.0">
+        <title> Get to know me </title>
+
+    </head>
+    <body>
+        <!-- Main Heading-->
+         <h1> GET TO KNOW ABOUT ME: Brooke Salazar</h1>
+         <H2> Just a little more th
+          e you already do</H2>
+<!-- This is a paragraph-->
+         <p> 
+            Hello!!! If you didnt read the title then you won't know who I am. <br>
+            I am a big show cattle person and my animals are my life. I am also a be introvert and love to stay inside to myself.<br>
+            I would show pictures of my animals but they are showing up really messed up here so just enjoy there names and look at mt other hobbies.<br>
+            
+             
+         </p>
+<!-- showing a link-->
+         <p> Here is a video though that I was able to get to load from my San Anitonio show. <br>
+            It was a televised show so they posted it on there website. Also becuase the pictures I tired to put where all messed up idk why. <br>
+             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> San Antionio show </a>   </p>
+
+         <!-- Display image -->
+          <h3> Some of my other interests and my animals  </h3>
+          <h10> OMG I GOT THIS ONE TO WORK. The dogs are named Link and Lance. Guess which one is which. <br>
+            Also a little hint Lance has a torn ear where Link attacked him. I don't think it shows in this picture though,<br>
+            so not really helpful just a fun fact about there realationship</h10>
+          
+          <img src="IMG_9235.JPG" alt=''><br>
+          <h1> I play video games way to much but of course never in y'all's class I could never.<br>
+                Also Mythical pokemon are the best in my opinion. Favorite Meloetta!! </h1><br>
+          <img src="maxresdefault.jpg" alt=''><br>
+          <h1> Cookie run kindgom also has taken my money and I am broke becuase of it. They<br>
+             made cookies look cute who could blame me. Same to genshin impact but we don't talk about those time<br>
+              I put them behind me. It is for the best.</h1>
+          <img src="EyjxG1XUcAAmFtC.jpg" alt=''>
+          <h1> I have also seen way to many animes</h1><br>
+          <h10> There is a lot more then this but that is just way to much to add. Also only ghost stories in dub. You can't disagree</h10><br>
+
+          <img src="download-1.jpg" alt=''>
+          <img src="download.jpg" alt=''>
+          <img src="download-2.jpg" alt=''>
+          <img src="download-3.jpg" alt=''>
+          <img src="download-4.jpg" alt=''>
+          <img src="download-5.jpg" alt=''>
+          <img src="download-6.jpg" alt=''>
+          <img src="download-7.jpg" alt=''>
+          <!--Lists-->
+          
+
+          </ul>
+           
+
+
+          <h4> All of my show cattles names and a fun fact  </h4>
+          <h5> Have to show I am a little of a country kid here</h5>
+          <ol>
+            <li>"Jack"ass" - brusied my dads ribs, broke out of his pin many times, had to have 3 guys holding him, but was the best steer with me and never hurt me</li>
+            <li>Crystal - 20 wins and 17 buckles and was my favorite nap partner. she also stayed with me 2 years and bestfriends with snow</li>
+            <li>Cry baby - hated every show that jack was not at they were best friend and she would literaly cry the whole time but still won a couple of shows</li>
+            <li>Snow - she almost didn't get shown becase she was so crazy but ended up winning a bunch of shows and was my show buddy for 2 years</li>
+            <li>Pickles - she was chill and she was nice </li>
+            <li>Macaroon - yeah she hated being a show cow and was not scaried to show it</li>
+            <li>S'mores - jumped on my foot and stood on it for a good 20 mins before the ring helper saw me crying becuase I couldnt move her off my foot </li>
+            <li>Bella - slammed me into a fence but I could ride her like a horse and is my best cow now</li>
+            <li>Bruce - he was friend not food but he still got sold named after the shark in finding nemo</li>
+            <li>Daenerys - she was also alright she only charged me once and hated children</li>
+            <li> Steer 1 - he had a name but I wasn't the one who named him but he was a really tall puppy and he loved us</li>
+          </ol>
+
+
+          
+        
+            <!-- Forms -->
+             
+                <label for="favorite dog">FAVORITE DOG</label><br>
+
+                <input type="radio" id="Link" name="favorite dog" value=" Link">
+                <label for="favorite dog">Link</label><br>
+
+                <input type="radio" id="Lance" name="favorite dog" value="Lance">
+                <label for="Favorite dog">Lance</label><br>
+
+                <input type="radio" id="Both" name="favorite dog" value="Both">
+                <label for="Favorite dog">Both</label><br>
+
+                <img src="tumblr_o96gzyPasi1uhaak4o1_640.gif" alt=''><br>
+                <h4> How I am with you gradeing this</h4>
+                
+             </form>
+        
+
+        
+    </body>
+</html>
